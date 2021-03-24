@@ -1,10 +1,38 @@
 [
     {
-        "id": "1",
-        "title": "Aliens",
-        "director": "James Cameron",
-        "year": "1986",
-        "rating": "8.5"
+        "UserId": "1",
+        "UserName": "kcabanar",
+        "FechaUltimoIngreso": "James Cameron",
+        "Persona": {
+            "PersonaId":111,
+            "Nombres":"kevin alberto",
+            "ApellidoPaterno":"cabana",
+            "ApellidoMaterno":"rojas",
+            "NombreCompleto":"kevin alberto cabana rojas",
+            "Documento":79561832,
+            "CorreoCorporativo":"kevin@telefonica.com",
+            "CorreoSecundario":"kevin@gmail.com",
+            "Telefono":981147577,
+            "TipoDocumento":"DNI"
+        },
+        "Rol": {
+            "RolId":14,
+            "Descripcion":"Administrador"
+        },
+        "TipoUsuario": {
+            "TipoUserId":13,
+            "Descripcion":"Gestor Incidencia"
+        },
+        "Entidad":{
+            "EntidadId":84,
+            "Descripcion":"Atento Centro"
+        },
+        "PuntoVenta":{
+            "PuntoVentaId":7,
+            "Descripcion":"Tienda 1",
+            "SegmentoRed":"Segmento 1"
+        }
+        
     },
     {
         "id": "2",
