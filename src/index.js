@@ -1,7 +1,7 @@
 const express = require('express');
 const morgan = require('morgan');
 const app = express();
-
+const importData = require("./inicio.json")
 // settings
 app.set('port', process.env.PORT || 4000);
 
@@ -15,6 +15,10 @@ app.use(require('./routes'));
 
 app.use('/api/movies', require('./routes/movies'));
 app.use('/api/users', require('./routes/users'));
+
+app.get('/players',(req,res)=>{
+    res.send(importData);
+})
 
 // starting the server
 app.listen(app.get('port'), () => {
