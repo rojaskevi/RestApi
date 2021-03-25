@@ -42,14 +42,17 @@
         "INCIDENCIAS": {
             "Tipo-Menu":"Group",
             "MenuId":99,
-            "SOLICITUD DE MODIFICACION":{
-              "Tipo-Menu":"Item",
-              "MenuId":1
-            },
+            "MenuPadre":0
+        },
             "VALIDAR EXCEPCIONES":{
               "Tipo-Menu":"Item",
-              "MenuId":12
-            }
-        }
+              "MenuId":12,
+              "MenuPadre":99
+            },        
+        "SOLICITUD DE MODIFICACION":{
+            "Tipo-Menu":"Item",
+            "MenuId":1,
+            "MenuPadre":99
+          }
     }
 ]
