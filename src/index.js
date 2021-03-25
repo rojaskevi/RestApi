@@ -16,6 +16,10 @@ app.use(require('./routes'));
 app.use('/api/movies', require('./routes/movies'));
 app.use('/api/users', require('./routes/users'));
 
+app.get('/',(req,res)=>{
+    res.send('Hello Word my friend of HAROSS');
+})
+
 app.get('/players',(req,res)=>{
     res.send(importData);
 })
