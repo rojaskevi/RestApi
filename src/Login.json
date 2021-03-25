@@ -6,7 +6,7 @@
     {
         "UserId": "1",
         "UserName": "kcabanar",
-        "FechaUltimoIngreso": "James Cameron",
+        "FechaUltimoIngreso": "20/03/2021",
         "Persona": {
             "PersonaId":1111,
             "Nombres":"kevin alberto",
@@ -37,12 +37,5 @@
             "SegmentoRed":"Segmento 1"
         }
         
-    },
-    {
-        "id": "2",
-        "title": "The Dark Knight",
-        "director": "Cristopher Nolan",
-        "year": "2008",
-        "rating": "10.0"
     }
 ]
