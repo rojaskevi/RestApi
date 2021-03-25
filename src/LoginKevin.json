@@ -37,5 +37,19 @@
             "SegmentoRed":"Segmento 1"
         }
         
+    },
+    {
+        "INCIDENCIAS": {
+            "Tipo-Menu":"Group",
+            "MenuId":99,
+            "SOLICITUD DE MODIFICACION":{
+              "Tipo-Menu":"Item",
+              "MenuId":1
+            },
+            "VALIDAR EXCEPCIONES":{
+              "Tipo-Menu":"Item",
+              "MenuId":12
+            }
+        }
     }
 ]

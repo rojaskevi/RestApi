@@ -1,0 +1,79 @@
+[
+    {
+        "respuesta": 1,
+        "mensaje" :"Ingreso correctamente"
+    },
+    {
+        "UserId": "3",
+        "UserName": "ecardenasa",
+        "FechaUltimoIngreso": "03/01/2018",
+        "Persona": {
+            "PersonaId":3333,
+            "Nombres":"ERICK",
+            "ApellidoPaterno":"CARDENAS",
+            "ApellidoMaterno":"ALVA",
+            "NombreCompleto":"ERICK CARDENAS ALVA",
+            "Documento":47317587,
+            "CorreoCorporativo":"erick.cardenasalva@telefonica.com",
+            "CorreoSecundario":"erick.cardenasalva@gmail.com",
+            "Telefono":984749372,
+            "TipoDocumento":"DNI"
+        },
+        "Rol": {
+            "RolId":14,
+            "Descripcion":"ADMINISTRADOR"
+        },
+        "TipoUsuario": {
+            "TipoUserId":13,
+            "Descripcion":"ADMINISTRADOR CIBER"
+        },
+        "Entidad":{
+            "EntidadId":84,
+            "Descripcion":"Telefonica TECH"
+        },
+        "PuntoVenta":{
+            "PuntoVentaId":7,
+            "Descripcion":"",
+            "SegmentoRed":"IQUITOS"
+        }
+        
+    },
+    {
+        "ASSIGNAMENTS": {
+            "Tipo-Menu":"Group",
+            "MenuId":99,
+            "ASSIGNAMENTS 1":{
+              "Tipo-Menu":"Item",
+              "MenuId":2
+            },
+            "ASSIGNAMENTS 2":{
+              "Tipo-Menu":"Item",
+              "MenuId":3
+            }
+        },
+        "HORARIO":{
+            "Tipo-Menu":"Item",
+            "MenuId":87
+        },
+        "INCIDENCIAS": {
+            "Tipo-Menu":"Group",
+            "MenuId":99,
+            "SOLICITUD DE MODIFICACION":{
+              "Tipo-Menu":"Item",
+              "MenuId":1
+            },
+            "VALIDAR EXCEPCIONES":{
+              "Tipo-Menu":"Item",
+              "MenuId":12
+            }
+        },
+        "MUERTE INFORMATICA":{
+            "Tipo-Menu":"Item",
+            "MenuId":13
+        },
+        "USUARIOS OBSERVADOS":{
+        "Tipo-Menu":"Item",
+        "MenuId":52
+        }
+    }
+]

@@ -11,9 +11,9 @@ app.use(express.urlencoded({extended: false}));
 app.use(express.json());
 
 // routes
-app.use(require('./routes')); 
+// app.use(require('./routes')); 
 
-app.use('/HAROSS/movies', require('./routes/movies'));
+// app.use('/HAROSS/movies', require('./routes/movies'));
 app.use('/HAROSS/users', require('./routes/users'));
 
 app.get('/',(req,res)=>{
@@ -22,9 +22,19 @@ app.get('/',(req,res)=>{
 
 app.post('/HAROSS/login',(req,res)=>{
     var parameters = req.query;
-    if(parameters.userName == 'guerel' &&
+    console.log('Sparameters' ,parameters);
+
+    if(parameters.userName == 'kcabanar' &&
        parameters.password =='pass123'){
-        res.send(require("./Login.json"));
+        res.send(require("./LoginKevin.json"));
+    }else if(
+       parameters.userName == 'ggarciaq' &&
+       parameters.password =='pass123'){
+        res.send(require("./LoginGuerel.json"));
+    }else if(
+        parameters.userName == 'ecardenasa' &&
+        parameters.password =='pass123'){
+         res.send(require("./LoginErick.json"));
     }else{
         var respuestaMala= [{
             respuesta: 0,
@@ -34,7 +44,7 @@ app.post('/HAROSS/login',(req,res)=>{
     }
 
    
-})
+});
 
 // starting the server
 app.listen(app.get('port'), () => {

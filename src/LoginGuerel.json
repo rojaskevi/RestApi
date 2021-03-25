@@ -1,0 +1,59 @@
+[
+    {
+        "respuesta": 1,
+        "mensaje" :"Ingreso correctamente"
+    },
+    {
+        "UserId": "2",
+        "UserName": "ggarciaq",
+        "FechaUltimoIngreso": "24/01/2021",
+        "Persona": {
+            "PersonaId":2222,
+            "Nombres":"GUEREL ORLANDO",
+            "ApellidoPaterno":"GARCIA ",
+            "ApellidoMaterno":"QUISPE ",
+            "NombreCompleto":"GUEREL ORLANDO GARCIA QUISPE",
+            "Documento":70804079 ,
+            "CorreoCorporativo":"guerel.garciaquispe@telefonica.com",
+            "CorreoSecundario":"guerel.garciaquispe@gmail.com",
+            "Telefono":999991353,
+            "TipoDocumento":"DNI"
+        },
+        "Rol": {
+            "RolId":14,
+            "Descripcion":"Accesos"
+        },
+        "TipoUsuario": {
+            "TipoUserId":13,
+            "Descripcion":"Acceso ciber"
+        },
+        "Entidad":{
+            "EntidadId":84,
+            "Descripcion":"Telefonica"
+        },
+        "PuntoVenta":{
+            "PuntoVentaId":7,
+            "Descripcion":"San Isidro",
+            "SegmentoRed":"Segmento 24"
+        }
+        
+    },
+    {
+        "INCIDENCIAS": {
+            "Tipo-Menu":"Group",
+            "MenuId":99,
+            "SOLICITUD DE MODIFICACION":{
+              "Tipo-Menu":"Item",
+              "MenuId":1
+            },
+            "VALIDAR EXCEPCIONES":{
+              "Tipo-Menu":"Item",
+              "MenuId":12
+            }
+        },
+        "USUARIOS OBSERVADOS":{
+        "Tipo-Menu":"Item",
+        "MenuId":52
+        }
+    }
+]
