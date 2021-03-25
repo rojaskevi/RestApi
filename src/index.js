@@ -17,11 +17,23 @@ app.use('/api/movies', require('./routes/movies'));
 app.use('/api/users', require('./routes/users'));
 
 app.get('/',(req,res)=>{
-    res.send('Hello Word my friend of HAROSS');
+    res.send('Hello my friend of HAROSS');
 })
 
 app.get('/players',(req,res)=>{
-    res.send(importData);
+    var parameters = req.query;
+    if(parameters.userName == 'guerel' &&
+       parameters.password =='pass123'){
+        res.send(require("./Login.json"));
+    }else{
+        var respuestaMala= [{
+            respuesta: 0,
+            mensaje :"Error al ingresar el usuario y/o password"
+        }]
+        res.send(respuestaMala);
+    }
+
+   
 })
 
 // starting the server
