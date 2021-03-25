@@ -13,14 +13,14 @@ app.use(express.json());
 // routes
 app.use(require('./routes')); 
 
-app.use('/api/movies', require('./routes/movies'));
-app.use('/api/users', require('./routes/users'));
+app.use('/HAROSS/movies', require('./routes/movies'));
+app.use('/HAROSS/users', require('./routes/users'));
 
 app.get('/',(req,res)=>{
     res.send('Hello my friend of HAROSS');
 })
 
-app.get('/players',(req,res)=>{
+app.post('/HAROSS/login',(req,res)=>{
     var parameters = req.query;
     if(parameters.userName == 'guerel' &&
        parameters.password =='pass123'){
