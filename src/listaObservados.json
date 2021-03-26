@@ -1,0 +1,903 @@
+
+[
+        {
+            "FECHA_DE_BLOQUEO": "2020-01-03",
+            "SISTEMA": "AMDOCS",
+            "CODIGO_USUARIO": "ARUIZ",
+            "NOMBRE_USUARIO": "SALAZAR  YONY EDWIN",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "73425721",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-09-29",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "CGILC",
+            "NOMBRE_USUARIO": "CARLOS ALBERTO GIL CAMPUSANO",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "73181843",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2018-01-31",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "CKAML",
+            "NOMBRE_USUARIO": "CINTHYA BEATRIZ KAM LEON",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "41459239",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-05-10",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "CPAZG",
+            "NOMBRE_USUARIO": "CARLOS RICARDO PAZ GALDOS",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "07497007",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2020-10-30",
+            "SISTEMA": "AMDOCS",
+            "CODIGO_USUARIO": "EBOYR",
+            "NOMBRE_USUARIO": "ENMA JOHANA CATTERINE BOY RODRIGUEZ",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "44418116",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2014-11-26",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "ECHEA",
+            "NOMBRE_USUARIO": "ENA ROSA CHE ANTON",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "48209563",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2014-08-27",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "ELOOR",
+            "NOMBRE_USUARIO": "ELVA VANESSA LOO RENGIFO",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "07642128",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-09-27",
+            "SISTEMA": "CITRIX",
+            "CODIGO_USUARIO": "EORET",
+            "NOMBRE_USUARIO": "EDUARDO ALONSO ORE TORRES",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "70505341",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-05-17",
+            "SISTEMA": "AMDOCS",
+            "CODIGO_USUARIO": "FGILM",
+            "NOMBRE_USUARIO": "FIORELA  MARIA GIL  MATIAS",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "47215128",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2012-12-31",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "GLIE",
+            "NOMBRE_USUARIO": "LI ESPICHE  GUADALUPE DEL ROSARIO",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "17835724",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2014-03-21",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "GOREB",
+            "NOMBRE_USUARIO": "GILBER JOSE ORE BRAVO",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "10360780",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2012-12-31",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "HCANO",
+            "NOMBRE_USUARIO": "CANO_MARTINEZ HENRY_JUAN",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "43770923",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2012-04-13",
+            "SISTEMA": "STC400",
+            "CODIGO_USUARIO": "HFDCH",
+            "NOMBRE_USUARIO": "CASIQUE HUAYUNGA   HERMINIO FRANCIS DEIVIN",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "45297459",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2020-01-03",
+            "SISTEMA": "AMDOCS",
+            "CODIGO_USUARIO": "JCHUV",
+            "NOMBRE_USUARIO": "CHU_VELASQUEZ JOSE_ARMANDO",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "74982808",
+            "INCIDENCIAS": "9"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2020-09-07",
+            "SISTEMA": "AMDOCS",
+            "CODIGO_USUARIO": "JGILM",
+            "NOMBRE_USUARIO": "GIL MESTANZA JHONATAN RICARD",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "46819897",
+            "INCIDENCIAS": "30"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2017-10-25",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "JLEOM",
+            "NOMBRE_USUARIO": "LEO_MORENO JOSEFATH_ANTONIO",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "40418439",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2012-01-28",
+            "SISTEMA": "STC400",
+            "CODIGO_USUARIO": "JMRZ",
+            "NOMBRE_USUARIO": "JANINA MELISSA RENGIFO ZAPATA",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "44710212",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2020-08-06",
+            "SISTEMA": "AMDOCS",
+            "CODIGO_USUARIO": "JOREQ",
+            "NOMBRE_USUARIO": "JHAMTRAVIC ARMANDO ORE QUISPE",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "76278672",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-06-14",
+            "SISTEMA": "CITRIX",
+            "CODIGO_USUARIO": "JPAZT",
+            "NOMBRE_USUARIO": "PAZ_TEMOCHE_JENNIFER_NATALI",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "47571719",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2012-01-24",
+            "SISTEMA": "STC400",
+            "CODIGO_USUARIO": "KVML",
+            "NOMBRE_USUARIO": "JANINA MELISSA RENGIFO ZAPATA",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "44710212",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2018-11-09",
+            "SISTEMA": "INFODOC",
+            "CODIGO_USUARIO": "LANAC",
+            "NOMBRE_USUARIO": "ANA CECILIA LUPUCHE ONA",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "08889209",
+            "INCIDENCIAS": "6"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-12-30",
+            "SISTEMA": "AMDOCS",
+            "CODIGO_USUARIO": "MASS",
+            "NOMBRE_USUARIO": "DESCO",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "99999999",
+            "INCIDENCIAS": "3"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2020-10-23",
+            "SISTEMA": "AMDOCS",
+            "CODIGO_USUARIO": "MNOAR",
+            "NOMBRE_USUARIO": "MARIA ANGELICA NOA ROJAS",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "42571492",
+            "INCIDENCIAS": "4"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2018-08-24",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "MOREB",
+            "NOMBRE_USUARIO": "MARIA ALEJANDRA ORE BEDON",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "72361287",
+            "INCIDENCIAS": "3"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2012-04-17",
+            "SISTEMA": "STC400",
+            "CODIGO_USUARIO": "MPAL",
+            "NOMBRE_USUARIO": "ARONES LAGOS  MARIA DEL PILAR",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "42852388",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2012-04-17",
+            "SISTEMA": "STC400",
+            "CODIGO_USUARIO": "PNPDC",
+            "NOMBRE_USUARIO": "PILLACA_DE_LA_CRUZ PAOLA_NATALI",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "45075504",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2012-05-24",
+            "SISTEMA": "STC400",
+            "CODIGO_USUARIO": "PZA",
+            "NOMBRE_USUARIO": "ZEGARRA APAZA  PAUL",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "44612590",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2015-07-17",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "RGILR",
+            "NOMBRE_USUARIO": "GIL RODRÍGUEZ ROSA MARÍA",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "10533277",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2020-03-03",
+            "SISTEMA": "AMDOCS",
+            "CODIGO_USUARIO": "RMASV",
+            "NOMBRE_USUARIO": "ROGER  ALDAHIR MAS  VILCHEZ",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "72879211",
+            "INCIDENCIAS": "2"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-01-04",
+            "SISTEMA": "STC400",
+            "CODIGO_USUARIO": "RPUAR",
+            "NOMBRE_USUARIO": "PUA ROSALES ROY ANTONY",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "70774147",
+            "INCIDENCIAS": "2"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2012-01-30",
+            "SISTEMA": "STC400",
+            "CODIGO_USUARIO": "RYFM",
+            "NOMBRE_USUARIO": "FLOREA MERCEDES RETO YARLEQUE",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "43777109",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2018-05-23",
+            "SISTEMA": "STC400",
+            "CODIGO_USUARIO": "TMICA",
+            "NOMBRE_USUARIO": "DESCO",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "99999999",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2018-07-31",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "WOREQ",
+            "NOMBRE_USUARIO": "WILBER ORE QUISPE",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "71552360",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2020-03-03",
+            "SISTEMA": "AMDOCS",
+            "CODIGO_USUARIO": "YMIOC",
+            "NOMBRE_USUARIO": "YAHAIRA LISET MIO CHIRA",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "70752801",
+            "INCIDENCIAS": "10"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2021-03-19",
+            "SISTEMA": "CITRIX",
+            "CODIGO_USUARIO": "YPAZF",
+            "NOMBRE_USUARIO": "YANET MARISOL PAZ FERRO",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "44071765",
+            "INCIDENCIAS": "2"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2017-07-18",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "101840",
+            "NOMBRE_USUARIO": "ROBERT FASCE PADILLA",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "101840",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-05-23",
+            "SISTEMA": "ATIS",
+            "CODIGO_USUARIO": "104602",
+            "NOMBRE_USUARIO": "HUAMAN YNGA ARNOLD ALEXANDER",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "46804230",
+            "INCIDENCIAS": "4"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-05-23",
+            "SISTEMA": "ATIS",
+            "CODIGO_USUARIO": "107616",
+            "NOMBRE_USUARIO": "GARY CARDENAS PAZ",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "70448947",
+            "INCIDENCIAS": "16"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-05-23",
+            "SISTEMA": "ATIS",
+            "CODIGO_USUARIO": "109064",
+            "NOMBRE_USUARIO": "QUISPE HEREDIA NORMA CRISTINA",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "41959104",
+            "INCIDENCIAS": "4"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-05-23",
+            "SISTEMA": "ATIS",
+            "CODIGO_USUARIO": "113567",
+            "NOMBRE_USUARIO": "DANIEL ESTID CIENFUEGOS MALADRID",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "41879570",
+            "INCIDENCIAS": "18"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-05-23",
+            "SISTEMA": "ATIS",
+            "CODIGO_USUARIO": "114295",
+            "NOMBRE_USUARIO": "MARILIA CHUMBE BOCANEGRA",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "47947282",
+            "INCIDENCIAS": "18"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "11462",
+            "NOMBRE_USUARIO": "LUIS MARCO ROQUE ALEGRE",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "18159831",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-05-23",
+            "SISTEMA": "ATIS",
+            "CODIGO_USUARIO": "116547",
+            "NOMBRE_USUARIO": "CARLOS MIGUEL YEREN QUISPE",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "22808442",
+            "INCIDENCIAS": "8"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-05-23",
+            "SISTEMA": "ATIS",
+            "CODIGO_USUARIO": "117468",
+            "NOMBRE_USUARIO": "YUKIYO VICTORIA QUISPE KCANA",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "47622146",
+            "INCIDENCIAS": "6"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-05-23",
+            "SISTEMA": "ATIS",
+            "CODIGO_USUARIO": "118439",
+            "NOMBRE_USUARIO": "LILIANA IVONE HUANCA LOZANO",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "48024607",
+            "INCIDENCIAS": "7"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-05-23",
+            "SISTEMA": "ATIS",
+            "CODIGO_USUARIO": "118445",
+            "NOMBRE_USUARIO": "FANNY CRUZ CHOQUEHUANCA",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "45322947",
+            "INCIDENCIAS": "12"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2020-03-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "118473",
+            "NOMBRE_USUARIO": "RAMOS VIVAS JESUS JHOEL",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "118473",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-05-23",
+            "SISTEMA": "ATIS",
+            "CODIGO_USUARIO": "122435",
+            "NOMBRE_USUARIO": "CARLOS JOSE BLONDELL CABELLO",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "32753034",
+            "INCIDENCIAS": "25"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2017-07-18",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "123455",
+            "NOMBRE_USUARIO": "JOSE REYNALDO ANCAJIMA ROJAS",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "123455",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-05-23",
+            "SISTEMA": "ATIS",
+            "CODIGO_USUARIO": "124412",
+            "NOMBRE_USUARIO": "ERICK RICARDO SANCHEZ HIDALGO",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "46339446",
+            "INCIDENCIAS": "9"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-05-23",
+            "SISTEMA": "ATIS",
+            "CODIGO_USUARIO": "126225",
+            "NOMBRE_USUARIO": "PATRICIA EVELYN SILVA RAMIREZ",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "46330256",
+            "INCIDENCIAS": "16"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-05-23",
+            "SISTEMA": "ATIS",
+            "CODIGO_USUARIO": "126319",
+            "NOMBRE_USUARIO": "PAMELA SOLEDAD RIVAS GUERRERO",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "16697115",
+            "INCIDENCIAS": "22"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-05-23",
+            "SISTEMA": "ATIS",
+            "CODIGO_USUARIO": "126688",
+            "NOMBRE_USUARIO": "AMPARO DEL PINAR CASTILLO FLORES",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "43596478",
+            "INCIDENCIAS": "17"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-05-23",
+            "SISTEMA": "ATIS",
+            "CODIGO_USUARIO": "126695",
+            "NOMBRE_USUARIO": "PRISCILIA DEL ROSARIO AGUILAR CRISANTO",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "70544161",
+            "INCIDENCIAS": "16"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-05-23",
+            "SISTEMA": "ATIS",
+            "CODIGO_USUARIO": "126702",
+            "NOMBRE_USUARIO": "JUAN CARLOS ALFARO AROTINCO",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "75715176",
+            "INCIDENCIAS": "36"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-05-23",
+            "SISTEMA": "ATIS",
+            "CODIGO_USUARIO": "126980",
+            "NOMBRE_USUARIO": "MAIRA  CLARA ZEGARRA  AGUIRRE",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "45881870",
+            "INCIDENCIAS": "11"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-12-15",
+            "SISTEMA": "ATIS",
+            "CODIGO_USUARIO": "127297",
+            "NOMBRE_USUARIO": "EDINSON MARIANO PRIETO LACHIRA",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "41643850",
+            "INCIDENCIAS": "21"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-05-23",
+            "SISTEMA": "ATIS",
+            "CODIGO_USUARIO": "128260",
+            "NOMBRE_USUARIO": "KLEYBER ORLANDO CAPACHO PEÑARANDA",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "78533695",
+            "INCIDENCIAS": "16"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-05-23",
+            "SISTEMA": "ATIS",
+            "CODIGO_USUARIO": "130723",
+            "NOMBRE_USUARIO": "JULISA JANET RAMIREZ NIZAMA",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "42746045",
+            "INCIDENCIAS": "15"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-05-17",
+            "SISTEMA": "ATIS",
+            "CODIGO_USUARIO": "131147",
+            "NOMBRE_USUARIO": "JOHAMNA KARINA FERNANDEZ SANCHEZ",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "127940720",
+            "INCIDENCIAS": "10"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "25471",
+            "NOMBRE_USUARIO": "FLAVIO MAXIMO LLOCLLA QUISPE",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "40000648",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2017-07-18",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "28211",
+            "NOMBRE_USUARIO": "JENY CLARA ESPINOZA PAUCAR",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "28211",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2017-12-30",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "3",
+            "NOMBRE_USUARIO": "TEODORO ALBERTO SIANCAS ALVARADO",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "18077607",
+            "INCIDENCIAS": "2"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-05-23",
+            "SISTEMA": "ATIS",
+            "CODIGO_USUARIO": "30894",
+            "NOMBRE_USUARIO": "MARIA VERONICA MUÑOZ CANALES",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "41240695",
+            "INCIDENCIAS": "8"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "34900",
+            "NOMBRE_USUARIO": "EDMUNDO LINO CARPIO CABALLERO",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "06203150",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "37209",
+            "NOMBRE_USUARIO": "CARDENAS_ALFARO_ROSA",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "45579117",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "38620",
+            "NOMBRE_USUARIO": "ELIZA HUANCAS CARRASCO",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "42979230",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "39227",
+            "NOMBRE_USUARIO": "LUIS ALBERTO MERINO PEREZ",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "41082977",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "39398",
+            "NOMBRE_USUARIO": "DANIEL JUNIUR QUISPE ZAPATA",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "45258396",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "41525",
+            "NOMBRE_USUARIO": "ROSALES CARRILLO ENRIQUE EMITERIO",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "32908815",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "42772",
+            "NOMBRE_USUARIO": "CHRISTIAN WUALTER AVALOS VEGA",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "32739963",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "43853",
+            "NOMBRE_USUARIO": "RODRIGO ESCALANTE CORNEJO",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "46049110",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "44136",
+            "NOMBRE_USUARIO": "ABRAHAM DURAND ZAPATA",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "02606617",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "4485",
+            "NOMBRE_USUARIO": "ELARD FERNANDO RODRIGUEZ RODRIGUEZ",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "18009292",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "50762",
+            "NOMBRE_USUARIO": "EDITH MIRIAN LOZANO HUAMANI",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "47537644",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "54152",
+            "NOMBRE_USUARIO": "LILIANA YOCELIN ESTEFANIA LLOCLLA RAMIREZ",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "47748786",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "57650",
+            "NOMBRE_USUARIO": "RICHARD DIEGO DIAZ GUTIERREZ",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "45222674",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "58387",
+            "NOMBRE_USUARIO": "JERLY FALCON TAMAYCOZA",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "09685621",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "59484",
+            "NOMBRE_USUARIO": "NELSIDA CELITA AMAYA LEON",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "17910009",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "59878",
+            "NOMBRE_USUARIO": "KENY ANALI SALCCA TEJADA",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "70993242",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "6214",
+            "NOMBRE_USUARIO": "EDWARD ORLANDO DEL AGUILA DEL AGUILA",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "06144032",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-05-23",
+            "SISTEMA": "ATIS",
+            "CODIGO_USUARIO": "62687",
+            "NOMBRE_USUARIO": "VÍCTOR RAÚL GARCÍA CISNEROS",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "45755651",
+            "INCIDENCIAS": "8"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "63192",
+            "NOMBRE_USUARIO": "ALEX JHON GARCIA CUNIAS",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "77917304",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "63608",
+            "NOMBRE_USUARIO": "ANDY HUAMAN YAJAHUANCA",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "76150223",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "64990",
+            "NOMBRE_USUARIO": "VICTOR ORLANDO CADENA PEREZ",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "44308177",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2019-05-23",
+            "SISTEMA": "ATIS",
+            "CODIGO_USUARIO": "69388",
+            "NOMBRE_USUARIO": "ELIZABET OLGA ARROYO CORTEZ",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "2878653",
+            "INCIDENCIAS": "2"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "73491",
+            "NOMBRE_USUARIO": "PATRICIA CARMEN SORIANO CHINCHAY",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "15727493",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "73565",
+            "NOMBRE_USUARIO": "JESUS FELIPE ORTIZ ESTRADA",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "18041383",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "78430",
+            "NOMBRE_USUARIO": "JUAN VICTOR MANUEL TORRES SALAZAR",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "70659041",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "79434",
+            "NOMBRE_USUARIO": "DIANA LISETT RIVADENEYRA ARGUME",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "43373172",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "79666",
+            "NOMBRE_USUARIO": "OSCAR ENRIQUE BANDA NARVAEZ",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "75385298",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "80596",
+            "NOMBRE_USUARIO": "HAROLD OJEDA MARTINEZ",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "75488432",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "80888",
+            "NOMBRE_USUARIO": "MIGUEL ANGEL PUCAR TANDAYPAN",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "74466360",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "80889",
+            "NOMBRE_USUARIO": "DARWIN ALEXANDER RODRIGUEZ RODRIGUEZ",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "71061367",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "81113",
+            "NOMBRE_USUARIO": "KATHY MARGARITA CHATILAN CORONEL",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "73464257",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "82263",
+            "NOMBRE_USUARIO": "MIRANDA PALOMINO ALVARO",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "45614140",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2018-04-11",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "84311",
+            "NOMBRE_USUARIO": "SHYLA GAMIL SANCHEZ TERRONES",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "73252698",
+            "INCIDENCIAS": "2"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "84319",
+            "NOMBRE_USUARIO": "WILSON WALTER ZAVALETA SANCHEZ",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "18212269",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "88272",
+            "NOMBRE_USUARIO": "XIOMARA BELEN TELLO BRIONES",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "72207587",
+            "INCIDENCIAS": "1"
+        },
+        {
+            "FECHA_DE_BLOQUEO": "2016-07-19",
+            "SISTEMA": "RED",
+            "CODIGO_USUARIO": "88274",
+            "NOMBRE_USUARIO": "PATRICK JHANPIERRE DIAZ SALAZAR",
+            "TIPO_DOCUMENTO": "DNI",
+            "DOCUMENTO": "74159678",
+            "INCIDENCIAS": "1"
+        }
+    ]

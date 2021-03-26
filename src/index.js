@@ -73,8 +73,11 @@ app.get('/HAROSS/loginMenus',(req,res)=>{
     }else if(
         parameters.UserId == 3){
         res.send(require("./LoginErickMenus.json"));
-    }
-    
+    }    
+});
+
+app.get('/HAROSS/listaObservados',(req,res)=>{
+        res.send(require("./listaObservados.json"));   
 });
 
 // starting the server
