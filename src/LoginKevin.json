@@ -40,19 +40,19 @@
     },
     {
         "INCIDENCIAS": {
-            "Tipo-Menu":"Group",
             "MenuId":99,
-            "MenuPadre":0
+            "MenuPadre":0,
+            "Descripcion": "INCIDENCIAS"
         },
-            "VALIDAR EXCEPCIONES":{
-              "Tipo-Menu":"Item",
+        "VALIDAR EXCEPCIONES":{
               "MenuId":12,
-              "MenuPadre":99
+              "MenuPadre":99,
+              "Descripcion": "VALIDAR EXCEPCIONES"
             },        
         "SOLICITUD DE MODIFICACION":{
-            "Tipo-Menu":"Item",
             "MenuId":1,
-            "MenuPadre":99
+            "MenuPadre":99,
+            "Descripcion": "SOLICITUD DE MODIFICACION"
           }
     }
 ]

@@ -39,41 +39,50 @@
         
     },
     {
-        "ASSIGNAMENTS": {
-            "Tipo-Menu":"Group",
-            "MenuId":99,
-            "ASSIGNAMENTS 1":{
-              "Tipo-Menu":"Item",
-              "MenuId":2
-            },
-            "ASSIGNAMENTS 2":{
-              "Tipo-Menu":"Item",
-              "MenuId":3
-            }
+        "ASSIGNAMENTS": {            
+            "MenuId":4 ,
+            "MenuPadre":0,
+            "Descripcion": "ASSIGNAMENTS"       
+        },
+        "ASSIGNAMENTS 1":{
+            "MenuId":2,
+            "MenuPadre":4,
+            "Descripcion": "ASSIGNAMENTS 1"
+        },
+        "ASSIGNAMENTS 2":{
+            "MenuId":3,
+            "MenuPadre":4,
+            "Descripcion": "ASSIGNAMENTS 2"
         },
         "HORARIO":{
-            "Tipo-Menu":"Item",
-            "MenuId":87
+            "MenuId":87,
+            "MenuPadre":0,
+            "Descripcion": "HORARIO"
         },
         "INCIDENCIAS": {
-            "Tipo-Menu":"Group",
             "MenuId":99,
-            "SOLICITUD DE MODIFICACION":{
-              "Tipo-Menu":"Item",
-              "MenuId":1
-            },
-            "VALIDAR EXCEPCIONES":{
-              "Tipo-Menu":"Item",
-              "MenuId":12
-            }
+            "MenuPadre":0,
+            "Descripcion": "INCIDENCIAS"
+        },
+        "VALIDAR EXCEPCIONES":{
+              "MenuId":12,
+              "MenuPadre":99,
+              "Descripcion": "VALIDAR EXCEPCIONES"
+        },        
+        "SOLICITUD DE MODIFICACION":{
+            "MenuId":1,
+            "MenuPadre":99,
+            "Descripcion": "SOLICITUD DE MODIFICACION"
         },
         "MUERTE INFORMATICA":{
-            "Tipo-Menu":"Item",
-            "MenuId":13
+            "MenuId":13,
+            "MenuPadre":0,
+            "Descripcion": "MUERTE INFORMATICA"
         },
         "USUARIOS OBSERVADOS":{
-        "Tipo-Menu":"Item",
-        "MenuId":52
+            "MenuId":52,
+            "MenuPadre":0,
+            "Descripcion": "USUARIOS OBSERVADOS"
         }
     }
 ]
