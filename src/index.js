@@ -77,7 +77,15 @@ app.get('/HAROSS/loginMenus',(req,res)=>{
 });
 
 app.get('/HAROSS/listaObservados',(req,res)=>{
-        res.send(require("./listaObservados.json"));   
+    var parameters = req.query;
+    if(parameters.documento != 0){
+        var jsonInicial = require("./listaObservados.json");
+        var jsonFiltrado = jsonInicial.filter(jsonInicial => jsonInicial.DOCUMENTO.includes(parameters.documento));
+
+        res.send(jsonFiltrado); 
+    }else{
+        res.send(require("./listaObservados.json")); 
+    }    
 });
 
 // starting the server
