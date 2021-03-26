@@ -80,8 +80,8 @@ app.get('/HAROSS/listaObservados',(req,res)=>{
     var parameters = req.query;
     if(parameters.documento != 0){
         var jsonInicial = require("./listaObservados.json");
-        var jsonFiltrado = jsonInicial.filter(jsonInicial => jsonInicial.DOCUMENTO.includes(parameters.documento));
-
+        var jsonFiltrado = jsonInicial.filter(jsonInicial => jsonInicial.DOCUMENTO == parameters.documento);
+        // var jsonFiltrado = jsonInicial.filter(jsonInicial => jsonInicial.DOCUMENTO.includes(parameters.documento));
         res.send(jsonFiltrado); 
     }else{
         res.send(require("./listaObservados.json")); 
