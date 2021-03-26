@@ -50,7 +50,7 @@ app.post('/HAROSS/login',(req,res)=>{
     }
 });
 
-app.post('/HAROSS/loginConfirmacion',(req,res)=>{
+app.get('/HAROSS/loginConfirmacion',(req,res)=>{
     var parameters = req.query;
     if(parameters.UserId == 1){        
         res.send(require("./LoginKevin.json"));
@@ -63,7 +63,7 @@ app.post('/HAROSS/loginConfirmacion',(req,res)=>{
     }
 });
 
-app.post('/HAROSS/loginMenus',(req,res)=>{
+app.get('/HAROSS/loginMenus',(req,res)=>{
     var parameters = req.query;
     if(parameters.UserId == 1){        
         res.send(require("./LoginKevinMenus.json"));
