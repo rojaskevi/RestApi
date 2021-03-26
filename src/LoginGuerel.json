@@ -1,8 +1,3 @@
-[
-    {
-        "respuesta": 1,
-        "mensaje" :"Ingreso correctamente"
-    },
     {
         "UserId": "2",
         "UserName": "ggarciaq",
@@ -37,27 +32,4 @@
             "SegmentoRed":"Segmento 24"
         }
         
-    },
-    {
-        "INCIDENCIAS": {
-            "MenuId":99,
-            "MenuPadre":0,
-            "Descripcion": "INCIDENCIAS"
-        },
-        "VALIDAR EXCEPCIONES":{
-              "MenuId":12,
-              "MenuPadre":99,
-              "Descripcion": "VALIDAR EXCEPCIONES"
-        },        
-        "SOLICITUD DE MODIFICACION":{
-            "MenuId":1,
-            "MenuPadre":99,
-            "Descripcion": "SOLICITUD DE MODIFICACION"
-        },
-        "USUARIOS OBSERVADOS":{
-            "MenuId":52,
-            "MenuPadre":0,
-            "Descripcion": "USUARIOS OBSERVADOS"
-        }
     }
-]
