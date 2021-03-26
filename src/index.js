@@ -41,11 +41,11 @@ app.post('/HAROSS/login',(req,res)=>{
         confirmacionCorrecta.UserId= 3;
          res.send(confirmacionCorrecta);
     }else{
-        var respuestaMala= [{
+        var respuestaMala= {
             UserId:0,
             respuesta: 0,
             mensaje :"Error al ingresar el usuario y/o password"
-        }]
+        }
         res.send(respuestaMala);
     }
 });
