@@ -15,10 +15,21 @@ app.use(express.json());
 
 // app.use('/HAROSS/movies', require('./routes/movies'));
 app.use('/HAROSS/users', require('./routes/users'));
+app.use('/HAROSS/loginConfirmacion', require('./routes/users'));
+app.use('/HAROSS/loginMenus', require('./routes/users'));
 
 app.get('/',(req,res)=>{
     res.send('Hello my friend of HAROSS');
 })
+
+
+app.post('/HAROSS/loginConfirmacion',(req,res)=>{
+    res.send(require("./LoginKevinConfirmacion.json"));
+});
+
+app.post('/HAROSS/loginMenus',(req,res)=>{
+    res.send(require("./LoginKevinMenus.json"));
+});
 
 app.post('/HAROSS/login',(req,res)=>{
     var parameters = req.query;
@@ -30,11 +41,13 @@ app.post('/HAROSS/login',(req,res)=>{
     }else if(
        parameters.userName == 'ggarciaq' &&
        parameters.password =='pass123'){
-        res.send(require("./LoginGuerel.json"));
+        // res.send(require("./LoginGuerel.json"));
+        res.send(require("./LoginKevin.json"));
     }else if(
         parameters.userName == 'ecardenasa' &&
         parameters.password =='pass123'){
-         res.send(require("./LoginErick.json"));
+        //  res.send(require("./LoginErick.json"));
+         res.send(require("./LoginKevin.json"));
     }else{
         var respuestaMala= [{
             respuesta: 0,
@@ -42,9 +55,9 @@ app.post('/HAROSS/login',(req,res)=>{
         }]
         res.send(respuestaMala);
     }
-
-   
 });
+
+
 
 // starting the server
 app.listen(app.get('port'), () => {

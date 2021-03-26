@@ -1,0 +1,17 @@
+[
+        {
+            "MenuId":99,
+            "MenuPadre":0,
+            "Descripcion": "INCIDENCIAS"
+        },
+        {
+              "MenuId":12,
+              "MenuPadre":99,
+              "Descripcion": "VALIDAR EXCEPCIONES"
+            },        
+        {
+            "MenuId":1,
+            "MenuPadre":99,
+            "Descripcion": "SOLICITUD DE MODIFICACION"
+          }
+]
