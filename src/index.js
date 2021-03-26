@@ -50,6 +50,7 @@ app.post('/HAROSS/login',(req,res)=>{
          res.send(require("./LoginKevin.json"));
     }else{
         var respuestaMala= [{
+            UserId:0,
             respuesta: 0,
             mensaje :"Error al ingresar el usuario y/o password"
         }]
