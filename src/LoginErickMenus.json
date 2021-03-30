@@ -2,46 +2,55 @@
     {            
         "MenuId":4 ,
         "MenuPadre":0,
+        "TipoMenu":"GroupItem",
         "Descripcion": "ASSIGNAMENTS"       
     },
     {
         "MenuId":2,
         "MenuPadre":4,
+        "TipoMenu":"Item",
         "Descripcion": "ASSIGNAMENTS 1"
     },
     {
         "MenuId":3,
         "MenuPadre":4,
+        "TipoMenu":"Item",
         "Descripcion": "ASSIGNAMENTS 2"
     },
     {
         "MenuId":87,
         "MenuPadre":0,
+        "TipoMenu":"Item",
         "Descripcion": "HORARIO"
     },
     {
         "MenuId":99,
         "MenuPadre":0,
+        "TipoMenu":"GroupItem",
         "Descripcion": "INCIDENCIAS"
     },
     {
-            "MenuId":12,
-            "MenuPadre":99,
-            "Descripcion": "VALIDAR EXCEPCIONES"
+        "MenuId":12,
+        "MenuPadre":99,
+        "TipoMenu":"Item",
+        "Descripcion": "VALIDAR EXCEPCIONES"
     },        
     {
         "MenuId":1,
         "MenuPadre":99,
+        "TipoMenu":"Item",
         "Descripcion": "SOLICITUD DE MODIFICACION"
     },
     {
         "MenuId":13,
         "MenuPadre":0,
+        "TipoMenu":"Item",
         "Descripcion": "MUERTE INFORMATICA"
     },
     {
         "MenuId":52,
         "MenuPadre":0,
+        "TipoMenu":"Item",
         "Descripcion": "USUARIOS OBSERVADOS"
     }
 ]
