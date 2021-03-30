@@ -1,4 +1,10 @@
-    {
+{
+    "Respuesta":{
+        "respuesta" : 1,
+        "mensaje" :"Ingreso correctamente",
+        "UserId":3
+    },
+    "Usuario":{
         "UserId": "3",
         "UserName": "ecardenasa",
         "FechaUltimoIngreso": "03/01/2018",
@@ -31,4 +37,53 @@
             "Descripcion":"",
             "SegmentoRed":"IQUITOS"
         }
-    }
+    },
+    "Menu":
+        [    
+            {            
+                "MenuId":4 ,
+                "MenuPadre":0,
+                "Descripcion": "ASSIGNAMENTS"       
+            },
+            {
+                "MenuId":2,
+                "MenuPadre":4,
+                "Descripcion": "ASSIGNAMENTS 1"
+            },
+            {
+                "MenuId":3,
+                "MenuPadre":4,
+                "Descripcion": "ASSIGNAMENTS 2"
+            },
+            {
+                "MenuId":87,
+                "MenuPadre":0,
+                "Descripcion": "HORARIO"
+            },
+            {
+                "MenuId":99,
+                "MenuPadre":0,
+                "Descripcion": "INCIDENCIAS"
+            },
+            {
+                    "MenuId":12,
+                    "MenuPadre":99,
+                    "Descripcion": "VALIDAR EXCEPCIONES"
+            },        
+            {
+                "MenuId":1,
+                "MenuPadre":99,
+                "Descripcion": "SOLICITUD DE MODIFICACION"
+            },
+            {
+                "MenuId":13,
+                "MenuPadre":0,
+                "Descripcion": "MUERTE INFORMATICA"
+            },
+            {
+                "MenuId":52,
+                "MenuPadre":0,
+                "Descripcion": "USUARIOS OBSERVADOS"
+            }
+        ]
+}

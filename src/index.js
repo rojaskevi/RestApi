@@ -21,60 +21,63 @@ app.get('/',(req,res)=>{
 })
 
 app.post('/HAROSS/login',(req,res)=>{
-    var confirmacionCorrecta= {
-        respuesta: 1,
-        mensaje :"Ingreso correctamente"
-    };
+    // var confirmacionCorrecta= {
+    //     respuesta: 1,
+    //     mensaje :"Ingreso correctamente"
+    // };
     var parameters = req.query;
     if(parameters.userName == 'kcabanar' &&
        parameters.password =='pass123'){
-        confirmacionCorrecta.UserId= 1;
-        res.send(confirmacionCorrecta);
+        // confirmacionCorrecta.UserId= 1;
+        // res.send(confirmacionCorrecta);
+        res.send(require("./LoginKevin.json"));
     }else if(
        parameters.userName == 'ggarciaq' &&
        parameters.password =='pass123'){
-        confirmacionCorrecta.UserId= 2;
-        res.send(confirmacionCorrecta);
+        // confirmacionCorrecta.UserId= 2;
+        // res.send(confirmacionCorrecta);
+        res.send(require("./LoginGuerel.json"));
     }else if(
         parameters.userName == 'ecardenasa' &&
         parameters.password =='pass123'){
-        confirmacionCorrecta.UserId= 3;
-         res.send(confirmacionCorrecta);
+        // confirmacionCorrecta.UserId= 3;
+        //  res.send(confirmacionCorrecta);
+        res.send(require("./LoginErick.json"));
     }else{
         var respuestaMala= {
             UserId:0,
             respuesta: 0,
             mensaje :"Error al ingresar el usuario y/o password"
         }
-        res.send(respuestaMala);
+        res.send(require("./LoginError.json"));
     }
 });
 
-app.get('/HAROSS/loginConfirmacion',(req,res)=>{
-    var parameters = req.query;
-    if(parameters.UserId == 1){        
-        res.send(require("./LoginKevin.json"));
-    }else if(
-       parameters.UserId == 2){        
-        res.send(require("./LoginGuerel.json"));
-    }else if(
-        parameters.UserId == 3){
-        res.send(require("./LoginErick.json"));
-    }
-});
+// app.get('/HAROSS/loginConfirmacion',(req,res)=>{
+//     var parameters = req.query;
+//     if(parameters.UserId == 1){        
+//         res.send(require("./LoginKevin.json"));
+//     }else if(
+//        parameters.UserId == 2){        
+//         res.send(require("./LoginGuerel.json"));
+//     }else if(
+//         parameters.UserId == 3){
+//         res.send(require("./LoginErick.json"));
+//     }
+// });
 
-app.get('/HAROSS/loginMenus',(req,res)=>{
-    var parameters = req.query;
-    if(parameters.UserId == 1){        
-        res.send(require("./LoginKevinMenus.json"));
-    }else if(
-       parameters.UserId == 2){
-        res.send(require("./LoginGuerelMenus.json"));
-    }else if(
-        parameters.UserId == 3){
-        res.send(require("./LoginErickMenus.json"));
-    }    
-});
+// app.get('/HAROSS/loginMenus',(req,res)=>{
+//     var parameters = req.query;
+//     if(parameters.UserId == 1){        
+//         res.send(require("./LoginKevinMenus.json"));
+//     }else if(
+//        parameters.UserId == 2){
+//         res.send(require("./LoginGuerelMenus.json"));
+//     }else if(
+//         parameters.UserId == 3){
+//         res.send(require("./LoginErickMenus.json"));
+//     }    
+// });
 
 app.get('/HAROSS/listaObservados',(req,res)=>{
     var parameters = req.query;
@@ -90,5 +93,5 @@ app.get('/HAROSS/listaObservados',(req,res)=>{
 
 // starting the server
 app.listen(app.get('port'), () => {
-    console.log(`Server on port ${app.get('port')}`);
+    console.log(`Server on port ${app.get('port')}`);3
 });

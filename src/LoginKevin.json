@@ -1,4 +1,10 @@
-    {
+{
+    "Respuesta":{
+        "respuesta" : 1,
+        "mensaje" :"Ingreso correctamente",
+        "UserId":1
+    },
+    "Usuario":{
         "UserId": "1",
         "UserName": "kcabanar",
         "FechaUltimoIngreso": "20/03/2021",
@@ -31,4 +37,22 @@
             "Descripcion":"Tienda 1",
             "SegmentoRed":"Segmento 1"
         }        
-    }
+    },
+    "Menu":[
+        {
+          "MenuId":99,
+          "MenuPadre":0,
+        "Descripcion": "INCIDENCIAS"
+        },
+        {
+          "MenuId":12,
+          "MenuPadre":99,
+          "Descripcion": "VALIDAR EXCEPCIONES"
+        },        
+        {
+          "MenuId":1,
+          "MenuPadre":99,
+          "Descripcion": "SOLICITUD DE MODIFICACION"
+        }
+      ]
+}

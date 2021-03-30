@@ -1,0 +1,49 @@
+{
+    "Respuesta":{
+        "respuesta" : 0,
+        "mensaje" :"Error al ingresar el usuario y/o password",
+        "UserId":0
+    },
+    "Usuario":{
+        "UserId": "",
+        "UserName": "",
+        "FechaUltimoIngreso": "",
+        "Persona": {
+            "PersonaId":0,
+            "Nombres":"",
+            "ApellidoPaterno":"",
+            "ApellidoMaterno":"",
+            "NombreCompleto":"",
+            "Documento":0,
+            "CorreoCorporativo":"",
+            "CorreoSecundario":"",
+            "Telefono":0,
+            "TipoDocumento":""
+        },
+        "Rol": {
+            "RolId":0,
+            "Descripcion":""
+        },
+        "TipoUsuario": {
+            "TipoUserId":0,
+            "Descripcion":""
+        },
+        "Entidad":{
+            "EntidadId":0,
+            "Descripcion":""
+        },
+        "PuntoVenta":{
+            "PuntoVentaId":0,
+            "Descripcion":"",
+            "SegmentoRed":""
+        }
+    },
+    "Menu":
+        [    
+            {            
+                "MenuId":0 ,
+                "MenuPadre":0,
+                "Descripcion": ""
+            }            
+        ]
+}

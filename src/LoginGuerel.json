@@ -1,4 +1,10 @@
-    {
+{
+    "Respuesta":{
+        "respuesta" : 1,
+        "mensaje" :"Ingreso correctamente",
+        "UserId":2
+    },
+    "Usuario":{
         "UserId": "2",
         "UserName": "ggarciaq",
         "FechaUltimoIngreso": "24/01/2021",
@@ -32,4 +38,22 @@
             "SegmentoRed":"Segmento 24"
         }
         
-    }
+    },
+    "Menu":[
+        {
+          "MenuId":99,
+          "MenuPadre":0,
+        "Descripcion": "INCIDENCIAS"
+        },
+        {
+          "MenuId":12,
+          "MenuPadre":99,
+          "Descripcion": "VALIDAR EXCEPCIONES"
+        },        
+        {
+          "MenuId":1,
+          "MenuPadre":99,
+          "Descripcion": "SOLICITUD DE MODIFICACION"
+        }
+      ]
+}
