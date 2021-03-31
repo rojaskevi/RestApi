@@ -42,16 +42,19 @@
         {
           "MenuId":99,
           "MenuPadre":0,
+          "TipoMenu":"GroupItem",
         "Descripcion": "INCIDENCIAS"
         },
         {
           "MenuId":12,
           "MenuPadre":99,
+          "TipoMenu":"Item",
           "Descripcion": "VALIDAR EXCEPCIONES"
         },        
         {
           "MenuId":1,
           "MenuPadre":99,
+          "TipoMenu":"Item",
           "Descripcion": "SOLICITUD DE MODIFICACION"
         }
       ]

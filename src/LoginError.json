@@ -43,6 +43,7 @@
             {            
                 "MenuId":0 ,
                 "MenuPadre":0,
+                "TipoMenu":"Item",
                 "Descripcion": ""
             }            
         ]
